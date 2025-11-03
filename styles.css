@@ -397,3 +397,36 @@ body {
         font-size: 36px;
     }
 }
+
+.faq-section {
+background: #f9fafb;
+border-radius: 12px;
+padding: 32px;
+margin-top: 32px;
+}
+
+
+.faq-item {
+border-bottom: 1px solid #e5e7eb;
+padding: 16px 0;
+}
+
+
+.faq-item:last-child {
+border-bottom: none;
+}
+
+
+.faq-question {
+font-weight: 700;
+font-size: 18px;
+color: #1f2937;
+margin-bottom: 8px;
+}
+
+
+.faq-answer {
+color: #4b5563;
+font-size: 15px;
+line-height: 1.6;
+}
