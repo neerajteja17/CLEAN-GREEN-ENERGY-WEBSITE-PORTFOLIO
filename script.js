@@ -291,6 +291,21 @@ const pages = {
                 </div>
             </div>
         </div>
+        <div class="section faq-section">
+<h2 class="section-title">Frequently Asked Questions (FAQs)</h2>
+<div class="faq-item">
+<div class="faq-question">1. How efficient are wind and wave energy systems?</div>
+<div class="faq-answer">Modern wind turbines convert 35–45% of wind’s kinetic energy into electricity, while wave systems achieve 25–40% efficiency depending on technology and conditions.</div>
+</div>
+<div class="faq-item">
+<div class="faq-question">2. What are the main challenges of wave energy technology?</div>
+<div class="faq-answer">High installation costs, corrosion from seawater, and maintenance in rough ocean conditions are key challenges currently being addressed by new designs.</div>
+</div>
+<div class="faq-item">
+<div class="faq-question">3. Can wind and wave farms coexist in the same area?</div>
+<div class="faq-answer">Yes. Offshore hybrid farms use the same sea space and grid infrastructure, improving efficiency and energy stability by combining wind and wave systems.</div>
+</div>
+</div>
     `,
 
     activity2: `
@@ -545,6 +560,21 @@ const pages = {
                 </div>
             </div>
         </div>
+        <div class="section faq-section">
+<h2 class="section-title">Frequently Asked Questions (FAQs)</h2>
+<div class="faq-item">
+<div class="faq-question">1. Is biomass energy really carbon neutral?</div>
+<div class="faq-answer">When managed sustainably, the CO₂ emitted during biomass combustion equals what plants absorbed during growth, creating a closed carbon cycle. However, unsustainable sourcing can negate this benefit.</div>
+</div>
+<div class="faq-item">
+<div class="faq-question">2. What are the main feedstocks for biomass energy?</div>
+<div class="faq-answer">Common sources include agricultural residues, forestry waste, energy crops like switchgrass, and organic municipal waste.</div>
+</div>
+<div class="faq-item">
+<div class="faq-question">3. How does biomass compare to solar and wind power?</div>
+<div class="faq-answer">Unlike solar and wind, biomass provides reliable baseload energy and helps manage organic waste, though it has lower efficiency and higher land-use impact.</div>
+</div>
+</div>
     `,
 
     activity3: `
@@ -853,6 +883,21 @@ const pages = {
                 </div>
             </div>
         </div>
+        <div class="section faq-section">
+<h2 class="section-title">Frequently Asked Questions (FAQs)</h2>
+<div class="faq-item">
+<div class="faq-question">1. How sustainable is geothermal energy in the long term?</div>
+<div class="faq-answer">Geothermal energy is highly sustainable if managed properly, with reinjection of fluids maintaining reservoir pressure and heat over decades.</div>
+</div>
+<div class="faq-item">
+<div class="faq-question">2. Why isn’t OTEC widely used yet?</div>
+<div class="faq-answer">OTEC systems are still in early stages due to high infrastructure costs and engineering challenges in deep-water pipelines, but research continues toward commercialization.</div>
+</div>
+<div class="faq-item">
+<div class="faq-question">3. Can these systems work together with other renewables?</div>
+<div class="faq-answer">Yes. Geothermal and OTEC can integrate with solar or wind to provide consistent baseload power, enhancing overall grid reliability and renewable penetration.</div>
+</div>
+</div>
     `
 };
 
